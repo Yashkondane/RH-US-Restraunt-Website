@@ -19,7 +19,7 @@ export default function WorkingHoursSection() {
                     {/* Left: Image with Info Card Overlay */}
                     <div className="relative h-[550px] rounded-2xl overflow-hidden shadow-2xl group">
                         <Image
-                            src="/images/hours-img.jpg"
+                            src="/hours-img (1).jpg"
                             alt="Restaurant interior"
                             fill
                             className="object-cover group-hover:scale-105 transition-transform duration-700"

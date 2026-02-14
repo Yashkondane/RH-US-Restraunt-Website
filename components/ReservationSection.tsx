@@ -27,7 +27,7 @@ export default function ReservationSection() {
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
                 <Image
-                    src="/images/bg-form-home-restaurant-600x696.jpg"
+                    src="/bg-form-home-restaurant-600x696 (1).jpg"
                     alt="Restaurant background"
                     fill
                     className="object-cover opacity-10"
@@ -168,7 +168,7 @@ export default function ReservationSection() {
                     <div className="relative hidden lg:block">
                         <div className="relative w-full h-[600px] rounded-2xl overflow-hidden shadow-2xl">
                             <Image
-                                src="/images/bg-form-home-restaurant-600x696.jpg"
+                                src="/bg-form-home-restaurant-600x696 (1).jpg"
                                 alt="Restaurant interior"
                                 fill
                                 className="object-cover"

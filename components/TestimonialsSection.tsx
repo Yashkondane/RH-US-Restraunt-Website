@@ -13,7 +13,7 @@ export default function TestimonialsSection() {
             role: 'Food Blogger',
             rating: 5,
             text: 'Absolutely incredible burgers! The blend of spices and fresh ingredients makes every bite unforgettable. This is my go-to spot for American classics.',
-            avatar: '/images/chef-1.jpg',
+            avatar: '/6b21cf12159515.562582531decc_cropped_processed_by_imagy.jpg',
         },
         {
             id: 2,
@@ -21,7 +21,7 @@ export default function TestimonialsSection() {
             role: 'Regular Customer',
             rating: 5,
             text: 'The wings are perfection - crispy on the outside, juicy inside. The staff is incredibly friendly and the atmosphere is cozy and welcoming.',
-            avatar: '/images/chef-2.jpg',
+            avatar: '/happy-male-chef-cook-cooking-food-EMJ8G9_cropped_processed_by_imagy.jpg',
         },
         {
             id: 3,
@@ -29,7 +29,7 @@ export default function TestimonialsSection() {
             role: 'Food Critic',
             rating: 5,
             text: 'A true gem! The attention to detail in every dish shows the passion behind this restaurant. The flavors are authentic and absolutely delicious.',
-            avatar: '/images/chef-3.jpg',
+            avatar: '/f52626_8d1feac2d2bc4e059a1f7af238dfec79~mv2_cropped_processed_by_imagy.jpg',
         },
         {
             id: 4,
@@ -37,23 +37,7 @@ export default function TestimonialsSection() {
             role: 'Local Resident',
             rating: 5,
             text: 'Best comfort food in town! From the burgers to the sides, everything is made with quality ingredients. Highly recommended!',
-            avatar: '/images/chef-4.jpg',
-        },
-        {
-            id: 5,
-            name: 'Lisa Thompson',
-            role: 'Family Diner',
-            rating: 5,
-            text: 'My family and I love this place! The portions are generous, prices are fair, and the service is top-notch. Our weekly tradition!',
-            avatar: '/images/chef-5.jpg',
-        },
-        {
-            id: 6,
-            name: 'David Park',
-            role: 'Wing Enthusiast',
-            rating: 5,
-            text: 'As someone who has tried wings everywhere, these are hands down the BEST. The sauces are incredible and the meat falls off the bone!',
-            avatar: '/images/chef-6.jpg',
+            avatar: '/OIP (4)_cropped_processed_by_imagy.jpg',
         },
     ]
 

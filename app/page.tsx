@@ -1,4 +1,3 @@
-'use client'
 import Hero from "@/components/Hero";
 import CategoryMenu from "@/components/CategoryMenu";
 import AboutSection from "@/components/AboutSection";

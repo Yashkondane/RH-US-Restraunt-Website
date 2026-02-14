@@ -4,21 +4,21 @@ import React from 'react'
 import Image from 'next/image'
 
 const row1Images = [
-    '/images/bg-form-home-restaurant-600x696.jpg',
-    '/images/feature-1.jpg',
-    '/images/hours-img.jpg',
-    '/images/chef-1.jpg',
-    '/images/menu-featured.jpg',
-    '/images/feature-2.jpg',
+    '/bg-form-home-restaurant-600x696 (1).jpg',
+    '/gallery-12.jpg',
+    '/gallery-11.jpg',
+    '/gallery-10.jpg',
+    '/gallery-08.jpg',
+    '/gallery-07.jpg',
 ]
 
 const row2Images = [
-    '/images/chef-4.jpg',
-    '/images/category-bg.jpg',
-    '/images/chef-2.jpg',
-    '/images/chef-5.jpg',
-    '/images/chef-6.jpg',
-    '/images/feature-1.jpg',
+    '/gallery-06.jpg',
+    '/gallery-05.jpg',
+    '/gallery-04.jpg',
+    '/gallery-03.jpg',
+    '/gallery-02.jpg',
+    '/gallery-01.jpg',
 ]
 
 export default function GallerySection() {

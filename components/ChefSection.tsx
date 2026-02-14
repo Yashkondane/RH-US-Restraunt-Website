@@ -4,10 +4,10 @@ import React from 'react'
 import Image from 'next/image'
 
 const chefs = [
-    { name: 'John Smith', role: 'Head Chef', image: '/images/chef-1.jpg' },
-    { name: 'Maria Garcia', role: 'Sous Chef', image: '/images/chef-2.jpg' },
-    { name: 'David Lee', role: 'Grill Master', image: '/images/chef-3.jpg' },
-    { name: 'Sarah Johnson', role: 'Pastry Chef', image: '/images/chef-4.jpg' },
+    { name: 'John Smith', role: 'Head Chef', image: '/happy-male-chef-cook-cooking-food-EMJ8G9_cropped_processed_by_imagy.jpg' },
+    { name: 'Maria Garcia', role: 'Sous Chef', image: '/6b21cf12159515.562582531decc_cropped_processed_by_imagy.jpg' },
+    { name: 'David Lee', role: 'Grill Master', image: '/f52626_8d1feac2d2bc4e059a1f7af238dfec79~mv2_cropped_processed_by_imagy.jpg' },
+    { name: 'Sarah Johnson', role: 'Pastry Chef', image: '/OIP (4)_cropped_processed_by_imagy.jpg' },
 ]
 
 export default function ChefSection() {

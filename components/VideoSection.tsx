@@ -29,7 +29,7 @@ export default function VideoSection() {
                         <div className="relative rounded-2xl overflow-hidden shadow-2xl group">
                             <div className="relative h-[400px] md:h-[500px]">
                                 <Image
-                                    src="/our-team-03.jpg"
+                                    src="/images/about-team.jpg"
                                     alt="Our Team"
                                     fill
                                     className="object-cover"
